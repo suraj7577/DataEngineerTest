@@ -27,5 +27,4 @@ for k in df['currency']:
     else:
         print("Enter a valid amount")
 # Currency should be a whole number
- #
- 
+ ##
